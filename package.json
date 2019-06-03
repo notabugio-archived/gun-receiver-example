@@ -1,0 +1,19 @@
+{
+  "name": "gun-receiver-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notabug/gun-lmdb": "^0.2.2",
+    "@notabug/gun-receiver": "^0.5.1",
+    "@notabug/gun-suppressor": "^0.2.2",
+    "@notabug/gun-suppressor-sear": "^0.3.1",
+    "gun": "^0.2019.515",
+    "pm2": "^3.5.1"
+  }
+}
